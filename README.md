@@ -49,13 +49,17 @@ Je m'intéresse également aux bonnes pratiques de développement, à la qualit�
 ---
 
 ## 📌 Projets
-- **Portfolio** – Mon site personnel pour mettre en avant mes réalisations(en production)
+
+- **Portfolio personnel** – Mon site web personnel présentant mes compétences, mes réalisations et mes différents projets. *(En production)*
+
+- **FluxColis** – Application web Full-Stack de gestion et de suivi de colis développée avec **React, TypeScript, NestJS, Prisma et PostgreSQL**.
 
 ## 🎯 Objectifs
 
-- 📚 Approfondir mes connaissances en **JavaScript avancé** et **React**
-- 🔒 Apprendre les bonnes pratiques en **sécurité web**
-- 🌐 Lancer ma carrière en tant que **Développeur Web Fullstack**
+- 📚 Approfondir mes compétences en **JavaScript/TypeScript avancé** et en **React**
+- 🏗️ Concevoir des applications web **Full-Stack modernes et évolutives**
+- 🔒 Renforcer mes connaissances en **sécurité web** et en bonnes pratiques de développement
+- 🚀 Débuter ma carrière en tant que **Développeur Full-Stack TypeScript**
   
 ---
  
