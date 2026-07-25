@@ -1,7 +1,7 @@
 # Salut 👋
 Je suis **Mathurin kouamé yao**
 
-**Développeur Full-Stack TypeScript Junior** 
+Développeur Full-Stack TypeScript Junior** 
 **Passionné par la créeation des sites web, des Applications Web moderne et la sécurité web.
 Basé à **Abidjan, Côte D'Ivoire**
 Actuellement en Formation Pour devenir **Développeur Fullstack React Typescript Nestjs**
