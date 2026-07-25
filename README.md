@@ -32,6 +32,7 @@ Actuellement en Formation Pour devenir **Développeur Fullstack React Typescript
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-005A9C?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![HORIZION](https://img.shields.io/badge/HORIZION-Full--Stack-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Outils  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
