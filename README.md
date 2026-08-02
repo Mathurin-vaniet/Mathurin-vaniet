@@ -1,11 +1,8 @@
 # Salut 👋
 
 Je suis **Mathurin Kouamé Vaniet**,  
-**Développeur Full-Stack TypeScript Junior** spécialisé dans le développement d'applications web modernes.
+**Développeur Full-Stack Junior spécialisé en React, TypeScript et NestJS. Conception d'applications web modernes avec API REST sécurisées, PostgreSQL et Docker. Passionné par l'architecture logicielle, la sécurité web et le développement de solutions métiers.
 
-Passionné par l'écosystème JavaScript/TypeScript, je conçois des interfaces performantes avec **React** et développe des APIs robustes avec **Node.js / NestJS**.
-
-Je m'intéresse également aux bonnes pratiques de développement, à la qualité du code et à la sécurité des applications web.
 
 📍 Basé à **Abidjan, Côte d'Ivoire**
 
