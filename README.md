@@ -55,7 +55,7 @@ Je suis **Mathurin Kouamé Yao**,
 - 📚 Approfondir mes compétences en **JavaScript/TypeScript avancé** , en **React** et en **Nestjs**
 - 🏗️ Concevoir des applications web **Full-Stack modernes et évolutives**
 - 🔒 Renforcer mes connaissances en **sécurité web** et en bonnes pratiques de développement
-- 🚀 Débuter ma carrière en tant que **Développeur Full-Stack TypeScript**
+- 🚀 Débuter ma carrière en tant que **Développeur Full-Stack TypeScript**, spécialisé en **React et NestJS**
   
 ---
  
