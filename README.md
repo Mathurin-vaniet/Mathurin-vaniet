@@ -47,8 +47,8 @@ Je suis **Mathurin Kouamé yao**,
 
 ## 📌 Projets
 
-- **Portfolio personnel** – Mon site web personnel présentant mes compétences, mes réalisations et mes différents projets. *(En production)*
-
+- **Portfolio personnel** – Application web moderne développée avec **React, TypeScript et NestJS**, mettant en valeur mes compétences, mes réalisations et mes projets. Disponible sur [www.mathurin-vaniet.com](https://www.mathurin-vaniet.com).
+  
 - **FluxColis** – Application web Full-Stack de gestion et de suivi de colis développée avec **React, TypeScript, NestJS, Prisma et PostgreSQL**.
 
 ## 🎯 Objectifs
@@ -64,7 +64,7 @@ Je suis **Mathurin Kouamé yao**,
 
 - ✉️ **Email** : kouammathurinyao@gmail.com  
 - 💼 **LinkedIn** : [linkedin.com/in/mathurinyao](https://www.linkedin.com/in/kouame-mathurin-yao/)  
-- 🐙 **GitHub** : [github.com/Mathurin-kouame](https://github.com/Mathurin-kouame)  
+- 🐙 **GitHub** : [github.com/Mathurin-kouame](https://github.com/Mathurin-vaniet)  
 
 ---
 
