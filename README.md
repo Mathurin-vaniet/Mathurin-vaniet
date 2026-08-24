@@ -53,7 +53,7 @@ Je suis **Mathurin Kouamé yao**,
 
 ## 🎯 Objectifs
 
-- 📚 Approfondir mes compétences en **JavaScript/TypeScript avancé** et en **React**
+- 📚 Approfondir mes compétences en **JavaScript/TypeScript avancé** , en **React** et en **Nestjs**
 - 🏗️ Concevoir des applications web **Full-Stack modernes et évolutives**
 - 🔒 Renforcer mes connaissances en **sécurité web** et en bonnes pratiques de développement
 - 🚀 Débuter ma carrière en tant que **Développeur Full-Stack TypeScript**
