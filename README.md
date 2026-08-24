@@ -1,8 +1,7 @@
 # Salut 👋
 
-Je suis **Mathurin Kouamé yao**,  
-**Développeur Full-Stack Junior spécialisé en React, TypeScript et NestJS. Conception d'applications web modernes avec API REST sécurisées, PostgreSQL et Docker. Passionné par l'architecture logicielle, la sécurité web et le développement de solutions métiers.
-
+Je suis **Mathurin Kouamé Yao**,  
+**Développeur Full-Stack TypeScript Junior** spécialisé en **React, TypeScript et NestJS**. Je conçois et développe des applications web modernes, performantes et sécurisées, avec des **API REST**, **PostgreSQL** et **Docker**. Je m'intéresse particulièrement à l'architecture logicielle, à la sécurité web et au développement de solutions métiers.
 
 📍 Basé à **Abidjan, Côte d'Ivoire**
 
