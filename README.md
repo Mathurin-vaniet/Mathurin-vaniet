@@ -64,7 +64,7 @@ Je suis **Mathurin Kouamé yao**,
 
 - ✉️ **Email** : kouammathurinyao@gmail.com  
 - 💼 **LinkedIn** : [linkedin.com/in/mathurinyao](https://www.linkedin.com/in/kouame-mathurin-yao/)  
-- 🐙 **GitHub** : [github.com/Mathurin-kouame](https://github.com/Mathurin-vaniet)  
+- 🐙 **GitHub** : [github.com/Mathurin-vaniet](https://github.com/Mathurin-vaniet)  
 
 ---
 
